@@ -1,0 +1,5 @@
+langchain-groq
+shutup
+sentence-transformers
+langchain-community
+streamlit
